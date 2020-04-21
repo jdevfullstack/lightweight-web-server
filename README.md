@@ -1,4 +1,4 @@
-# HTTP Single File Server 
+# HTTP File Web Server 
 
 ![picture](screenshots/screenshot1.png)
 
