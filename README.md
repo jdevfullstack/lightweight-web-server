@@ -16,11 +16,6 @@ does that exactly. But remember, data will always end as bytes.
 So, everything can be processed by a computer as long as the 
 programmer can represent the data as bytes.
 
-This custom server only accepts GET request by browsers and 
-you can further enhance it by adding implementation for other
-HTTP methods. And since this is a webserver, we want also to have
-port 80, but then again, you can easily change that in the main method.
-
 Remember that both servers and
 browsers can pass data to one another, but typically a browser will always
 initiate the connection while the server is just always waiting for a connection.
@@ -36,6 +31,8 @@ Also, bytes are not even numbers, they are just representation for us humans bec
 a computer can only understand the presence or absence of an electrical pulse: that
 is, again, represented as 0 and 1. For today, of course, typical users will hate seeing
 0s and 1s so programmers do the abstraction.
+
+This server is enabled for GET and POST methods. Please see the instructions.
 
 ## Q&A
 
@@ -76,6 +73,9 @@ As my example, in my release the executable jar file must
 have its own folder, then inside that folder is the default page
 `index.html`, then you can create subfolder, in my case, 
 `data` and you can put files there to be serve by this webserver. 
+
+And there is the form sample to post. When you click `add record`,
+the data will be sent as POST.
 
 ## Contributing
 
