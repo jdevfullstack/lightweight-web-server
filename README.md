@@ -1,4 +1,4 @@
-# HTTP File Web Server 
+# Lightweight Web Server 
 
 ![picture](screenshots/screenshot1.png)
 
