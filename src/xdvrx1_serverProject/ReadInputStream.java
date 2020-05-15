@@ -20,7 +20,9 @@ class ReadInputStream {
                 if (userRequest.length() > bufferSize-1) {
                     //for performance, always shutdown
                     //after breaking from this loop
-                    connection.shutdownInput();
+                    if (connection.isConnected()) {
+                        connection.shutdownInput();
+                    }
                     break;
                 }
                 
@@ -33,7 +35,7 @@ class ReadInputStream {
                 //ignore the line endings,
                 //the Reader will interpret this as end of buffer
                 //we need to read the entire content of the buffer
-                if (c == '\n' || c == '\r' || c == 1) continue;
+                if (c == '\n' || c == '\r' || c == -1) continue;
             }
             return userRequest;
         } catch (IOException ioe) {
