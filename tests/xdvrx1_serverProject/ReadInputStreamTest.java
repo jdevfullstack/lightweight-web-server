@@ -103,7 +103,7 @@ public class ReadInputStreamTest {
     
     @After
     public void tearDown() throws Exception {         
-        
+        tempFile.deleteOnExit();        
     }
     
 }
