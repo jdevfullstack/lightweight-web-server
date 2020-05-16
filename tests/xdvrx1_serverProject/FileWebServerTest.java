@@ -44,6 +44,6 @@ public class FileWebServerTest {
     
     @After
     public void tearDown() throws Exception { 
-        
+        tempFile.deleteOnExit();        
     }
 }
