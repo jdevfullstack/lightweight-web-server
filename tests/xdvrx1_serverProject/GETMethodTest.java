@@ -82,7 +82,7 @@ public class GETMethodTest {
     
     @After
     public void tearDown() throws Exception {
-        
+        tempFile.deleteOnExit();        
     }
     
 }
