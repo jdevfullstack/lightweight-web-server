@@ -44,7 +44,7 @@ You can also create a pull request to start the discussion or query/ies.
 
 Or, you can raise an issue. I promise I will answer your questions. 
 
-## Compiling
+## Compiling & Using The Server
 
 This is namespaced as package `xdvrx1_serverProject`. It is up to your IDE 
 how it actually manages Java projects. 
