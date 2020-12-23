@@ -37,9 +37,9 @@ This server is enabled for GET and POST methods. Please see the instructions.
 
 ## Q&A
 
-If you have questions, please feel free to ask me: 
+If you have questions, please utilize the
+`Discussions` feature of GitHub.
 
-<mongAlvarez@gmail.com>
    
 You can also create a pull request to start the discussion or query/ies.
 
