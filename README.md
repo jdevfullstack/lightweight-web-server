@@ -73,7 +73,7 @@ If you want to follow my setup, these are the steps:
 3. Add both in the System Environment Variables
 so that you can use it through the Command Prompt.
 4. Using the Command Prompt, 
-go to the project folder.
+go to the project folder `lightweight-webserver`.
 5. Compile or build the project.
 
 ### Command Prompt Using Maven And Java  
