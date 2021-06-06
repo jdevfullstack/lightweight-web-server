@@ -52,7 +52,6 @@ so that data can be entered.
 
 If you have questions, please utilize the
 `Discussions` feature of GitHub.
-
    
 You can also create a pull request to start the discussion or query/ies.
 
@@ -66,6 +65,33 @@ how it actually manages Java projects.
 But now, I decided to pick the Maven build tool
 using the Command Prompt only. I use Java on the
 Command Prompt also.
+
+If you want to follow my setup, these are the steps:
+
+1. Install Java SDK 8 if there is none.
+2. Install Maven if there is none.
+3. Add both in the System Environment Variables
+so that you can use it through the Command Prompt.
+4. Using the Command Prompt, 
+go to the project folder.
+5. Compile or build the project.
+
+### Command Prompt Using Maven And Java  
+`mvn clean` to clean the directory
+
+`mvn install` to install including
+the runnable `.jar`
+
+`mvn compile` to simply compile
+
+To run the runnable `.jar`, go
+to the `target` directory and type
+on the Command prompt `java -jar [filename]`
+
+and it is standalone, you can simply
+copy the `.jar` and put that to any directory
+you want and it will start hosting
+there once you run that.
 
 Once you set this up correctly, the steps are:
 1. Compile the project.
