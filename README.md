@@ -63,6 +63,10 @@ Or, you can raise an issue. I promise I will answer your questions.
 This is namespaced as package `xdvrx1_serverProject`. It is up to your IDE 
 how it actually manages Java projects. 
 
+But now, I decided to pick the Maven build tool
+using the Command Prompt only. I use Java on the
+Command Prompt also.
+
 Once you set this up correctly, the steps are:
 1. Compile the project.
 2. Run the project.
