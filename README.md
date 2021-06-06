@@ -35,6 +35,19 @@ is, again, represented as 0 and 1. For today, of course, typical users will hate
 
 This server is enabled for GET and POST methods. Please see the instructions.
 
+For this app, this is capable of getting contents from a directory
+and display that through a browser and capable of accepting forms using
+the POST method. 
+
+Once you get the runnable `jar` file through
+`mvn install`, say, you put the `.jar` file in Desktop
+directory, all the files there can simply be accessed
+through a web browser, preferably Google Chrome, as
+this browser can display images & videos by default.
+
+For posting, you need to have a html form,
+so that data can be entered.
+
 ## Q&A
 
 If you have questions, please utilize the
