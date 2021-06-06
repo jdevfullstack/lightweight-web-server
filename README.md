@@ -130,3 +130,7 @@ I'm much more willing to collaborate with you!
 ## License
 
 MIT- the permissive license
+
+## TO DO
+1. I still want to add a GUI, so
+that this will be user-friendly
