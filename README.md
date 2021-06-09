@@ -109,7 +109,7 @@ or just create a list on the default web page.
 Remember also that the `index.html`
 is the default web page, manually coded to do so. You can change that.
 
-Once you created the executable jar file,
+Once you have created the executable jar file,
 all files within the directory of this executable jar file
 can be accessed through this server. 
 
