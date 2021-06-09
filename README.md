@@ -22,13 +22,13 @@ browsers can pass data to one another, but typically a browser will always
 initiate the connection while the server is just always waiting for a connection.
 The same is true for other servers like Telnet or FTP servers.
 
-Yet, HTTP is good also to pass any data as long
+Yet, HTTP is also good to pass any data as long
 as it is expressed in bytes. HTTP is so famous now as it is the protocol of
 web servers and browsers, so more often, we always link HTTP for web sites.
 Also, updated browsers nowadays can display more than text documents like PDF and
 images and even markdown files.
 
-Also, bytes are not even numbers, they are just representation for us humans because
+Also, bytes are not even numbers, they are just representations for us humans because
 a computer can only understand the presence or absence of an electrical pulse: that
 is, again, represented as 0 and 1. For today, of course, typical users will hate seeing
 0s and 1s so programmers do the abstraction.
@@ -36,7 +36,7 @@ is, again, represented as 0 and 1. For today, of course, typical users will hate
 This server is enabled for GET and POST methods. Please see the instructions.
 
 For this app, this is capable of getting contents from a directory
-and display that through a browser and capable of accepting forms using
+and displaying that through a browser and capable of accepting forms using
 the POST method. 
 
 Once you get the runnable `jar` file through
@@ -115,8 +115,8 @@ can be accessed through this server.
 
 As my example, in my release the executable jar file must
 have its own folder, then inside that folder is the default page
-`index.html`, then you can create subfolder, in my case, 
-`data` and you can put files there to be serve by this webserver. 
+`index.html`, then you can create a subfolder, in my case, 
+`data` and you can put files there to be served by this webserver. 
 
 And there is the form sample to post. When you click `add record`,
 the data will be sent as POST.
@@ -124,7 +124,7 @@ the data will be sent as POST.
 ## Contributing
 
 1. Fork it!
-2. Then, made changes and create a pull request. 
+2. Then, make changes and create a pull request. 
 I'm much more willing to collaborate with you!
 
 ## License
