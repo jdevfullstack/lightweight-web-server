@@ -107,7 +107,8 @@ or just create a list on the default web page.
 7. If you are quite confused, you can download my release.
 
 Remember also that the `index.html`
-is the default web page, manually coded to do so. You can change that.
+is the default web page but of course
+you can change that.
 
 Once you have created the executable jar file,
 all files within the directory of this executable jar file
