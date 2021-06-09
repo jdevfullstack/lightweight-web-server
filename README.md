@@ -93,7 +93,7 @@ copy the `.jar` and put that to any directory
 you want and it will start hosting
 there once you run that.
 
-Once you set this up correctly, the steps are:
+### How To Run The Server 
 1. Compile the project.
 2. Run the project.
 3. Put `index.html` to your working directory
