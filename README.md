@@ -1,15 +1,22 @@
 # Lightweight Web Server 
 
-*`updated 21 April 2022`*
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Flightweight-web-server&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![picture](screenshots/screenshot1.png)
 
-***
+I'm happy to share with you my custom server written in Java !
 
-I'm happy to share with you my custom server written in Java.
+## Disclaimer
+Please note that these projects are presented as a showcase of my work during a 
+specific period. They represent a snapshot of my skills and accomplishments 
+at that time. As such, these projects are no longer actively maintained or updated. 
+They are kept public for demonstration purposes and may not reflect my current 
+abilities or the latest best practices in the field. 
 
+However, feel free to learn from these archived projects, 
+preserved as they were during that specific period !
+
+## Project Intro
 Network programming is very important. Remember that the Internet
 was created for that very reason: that is, computers
 must communicate to one another around the world and 
@@ -50,15 +57,6 @@ this browser can display images & videos by default.
 
 For posting, you need to have a html form,
 so that data can be entered.
-
-## Q&A
-
-If you have questions, please utilize the
-`Discussions` feature of GitHub.
-   
-You can also create a pull request to start the discussion or query/ies.
-
-Or, you can raise an issue. I promise I will answer your questions. 
 
 ## Compiling & Using The Server
 
@@ -125,16 +123,6 @@ have its own folder, then inside that folder is the default page
 And there is the form sample to post. When you click `add record`,
 the data will be sent as POST.
 
-## Contributing
-
-1. Fork it!
-2. Then, make changes and create a pull request. 
-I'm much more willing to collaborate with you!
-
 ## License
 
 MIT- the permissive license
-
-## TO DO
-1. I still want to add a GUI, so
-that this will be user-friendly
