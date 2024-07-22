@@ -126,6 +126,10 @@ the data will be sent as POST.
 ## License
 MIT- the permissive license
 
+## More Java Projects
+for more Java discussion and other details, 
+check the Main Page -> [Java](https://github.com/jdevfullstack/java)
+
 ## More Of My Content
 - [jdevfullstack Profile](https://github.com/jdevfullstack)
 - [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
