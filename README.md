@@ -124,5 +124,10 @@ And there is the form sample to post. When you click `add record`,
 the data will be sent as POST.
 
 ## License
-
 MIT- the permissive license
+
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
